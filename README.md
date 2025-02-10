@@ -1,11 +1,14 @@
-# Hello, I'm Renen Rivera 👋
+# Hi, I'm Renen Rivera 👋
 
-Welcome to my GitHub profile!
+Welcome to my GitHub profile! I'm a developer and open-source enthusiast.
 
-## 🚀 About Me
-I'm a passionate software developer with a love for open source.
+## 📘 About Me:
+- 🔭 I’m currently working on some cool projects.
+- 🌱 I’m learning new web development technologies.
+- 💬 Ask me about JavaScript, React, and Node.js.
+- 📫 Reach me via [email](mailto:riverarenen02@gmail.com).
 
-![My Avatar](https://avatars.githubusercontent.com/u/43766924?v=4)
+## 🌱 GitHub Stats
+![Renen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nen02&show_icons=true&theme=tokyonight)
 
-## 📊 GitHub Stats
-![Renen Rivera's GitHub stats](https://github-readme-stats.vercel.app/api?username=nen02&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nen02&layout=compact&theme=tokyonight)
